@@ -9,7 +9,7 @@ const About = () => {
         <p className="text-lg lg:text-xl py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         <p className="text-lg lg:text-xl py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       </div>
-      <img src="about_me.jpeg" className=" max-w-sm sm:relative sm:left-5 sm:bottom-40 " alt="Picture of the author"></img>
+      <img src="about_me.jpeg" className="max-w-md sm:relative sm:left-5 sm:bottom-36 sm:pt-10 " alt="Picture of the author"></img>
     </section>
   )
 }
