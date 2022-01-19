@@ -1,7 +1,7 @@
 
 const Services = () => {
   return (
-    <section className="border-4 min-w-screen px-20 py-8 bg-imag bg-services text-center">
+    <section className="min-w-screen px-20 py-8 bg-imag bg-services text-center">
       <h2 className="text-green-400 py-8 text-6xl font-semibold">What I Do</h2>
       <div className="text-white mb-16 lg:flex lg:min-w-1000px lg:mx-auto">
         <div className="py-4 lg:px-20 lg:min-w-[30%]">

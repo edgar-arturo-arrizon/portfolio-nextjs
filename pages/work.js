@@ -1,6 +1,6 @@
 const Work = () => {
   return (
-    <section className="bg-stone-800 border-4 min-w-screen px-10 py-8  text-center">
+    <section className="bg-stone-800  min-w-screen px-10 py-8  text-center">
       <h2 className=" text-white text-5xl font-bold py-3">My Work</h2>
       <p className="text-3xl font-medium text-green-400 py-2 sm:col-start-1">In progress..</p>
 
