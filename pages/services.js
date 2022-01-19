@@ -10,11 +10,11 @@ const Services = () => {
         </div>
         <div className="py-4 lg:px-10 lg:min-w-[30%]">
           <h3 className="text-2xl py-4 font-bold">Backend Technologies</h3>
-          <p className="text-lg lg:text-xl"> Experience building backend services with Node.js, Python, Express, FastAPI  </p>
+          <p className="text-lg lg:text-xl"> Experience building servers, databases and API's with Node.js, Python, Express, FastAPI, MongoDB, Postgres</p>
         </div>
         <div className="py-4 lg:px-20 lg:min-w-[30%]">
           <h3 className="text-2xl py-4 font-bold">Rest API Developement</h3>
-          <p className="text-lg lg:text-xl">I love working with API's. Setting up ETL piplines, replacing outdated backend services and launching instances on AWS</p>
+          <p className="text-lg lg:text-xl">Replacing outdated backend services, setting up ETL piplines, and launching instances on AWS</p>
         </div>
       </div>
     </section>
