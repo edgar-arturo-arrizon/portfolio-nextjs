@@ -6,15 +6,15 @@ const Services = () => {
       <div className="text-white mb-16 lg:flex lg:min-w-1000px lg:mx-auto">
         <div className="py-4 lg:px-20 lg:min-w-[30%]">
           <h3 className="text-2xl py-4 font-bold">Frontend Developement</h3>
-          <p className="text-lg lg:text-xl"> Building or replacing single page websites with HTML5, CSS, React, Next.js, Tailwind, Styled Components, Bootstrap</p>
+          <p className="text-lg lg:text-xl"> Building and styling websites with HTML5, CSS, React, Next.js, Tailwind, Styled Components, Bootstrap</p>
         </div>
         <div className="py-4 lg:px-10 lg:min-w-[30%]">
           <h3 className="text-2xl py-4 font-bold">Backend Technologies</h3>
-          <p className="text-lg lg:text-xl"> Experience building servers, databases and API's with Node.js, Python, Express, FastAPI, MongoDB, Postgres</p>
+          <p className="text-lg lg:text-xl"> Experience building servers, databases, setting up user authentication and creating REST API's. Node.js, Python, Express, FastAPI, MongoDB, Postgres</p>
         </div>
         <div className="py-4 lg:px-20 lg:min-w-[30%]">
           <h3 className="text-2xl py-4 font-bold">Rest API Developement</h3>
-          <p className="text-lg lg:text-xl">Replacing outdated backend services, setting up ETL piplines, and launching instances on AWS</p>
+          <p className="text-lg lg:text-xl">Replacing outdated backend services, setting up ETL piplines, scaling horizontally with with AWS instances</p>
         </div>
       </div>
     </section>
