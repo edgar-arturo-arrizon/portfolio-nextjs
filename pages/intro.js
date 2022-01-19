@@ -10,7 +10,7 @@ const Intro = () => {
         </h1>
         <p className="text-3xl bg-green-400 md:w-[400px] md:inline">Fullstack developer</p>
       </div>
-      <img src="intro.jpeg" className="w-80 rounded-full" alt="Picture of the author"></img>
+      <Image src="intro.jpeg" className="w-80 rounded-full" alt="Picture of the author"></Image>
     </section>
   )
 }
