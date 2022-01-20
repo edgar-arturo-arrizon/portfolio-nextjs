@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer className="bg-stone-900 p-9 text-green-400 text-center font-semibold text-2xl">
-      <a href="mailto:arrizoneddie91@gmail.com" >arrizoneddie91@gmail.com
+      <a href="mailto:>arrizonedgar91@gmail.com" >arrizonedgar91@gmail.com
       </a>
       <ul className="flex justify-center m-8">
         <li className="px-5">
@@ -10,7 +10,7 @@ const Footer = () => {
         </a>
         </li>
         <li>
-          <a href="https://github.com/ElRemolino">
+          <a href="https://github.com/edgar-arturo-arrizon">
             Github
           </a>
         </li>
