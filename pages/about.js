@@ -7,8 +7,8 @@ const About = () => {
       <p className="text-3xl font-medium bg-green-400 text-left py-2 sm:col-start-1">Fullstack developer based out of Oakland, CA</p>
 
       <div className="text-left sm:col-start-1 ">
-        <p className="text-lg lg:text-xl py-3">From personal trainer to software developer! I started coding in hopes of building some of the applications I felt were needed by coaches and wellness professionals. It has been so empowering learning to code.</p>
-        <p className="text-lg lg:text-xl py-3">Having attended an immersive program for fullstack developement. Where I was trained and able to develope my skills further. I have always been passionate about contributing to open source projects, empowering others with technology, teaching and learning. I would love to work with you on making a difference in one of those sectors!</p>
+        <p className="text-lg lg:text-xl py-3">From personal trainer to software developer! I started coding in hopes of building some of the applications I felt were needed by coaches and wellness professionals. I attended Galvanizes immersive program for fullstack developement. Where I was trained and able to further develope my skills. </p>
+        <p className="text-lg lg:text-xl py-3"> I am passionate about contributing to open source projects, empowering others, teaching and community building. I would love to collaborate with you on making a positive difference in one of those sectors!</p>
       </div>
       <img src="/about_me.jpeg" className="rounded-lg  max-w-md sm:relative  sm:bottom-36 sm:pt-10 w-[90%]" alt="Picture of the author"></img>
     </section>
