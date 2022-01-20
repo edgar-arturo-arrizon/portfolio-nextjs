@@ -3,7 +3,7 @@ import introPic from '../public/intro.jpeg'
 
 const Intro = () => {
   return (
-    <section className="px-20 py-8 flex flex-row justify-center">
+    <section className="min-w-screen px-20 py-8 flex flex-row justify-center">
       <div className="relative ">
         <h1 className="text-5xl">
           Hi, I am <strong>Edgar Arrizon</strong>

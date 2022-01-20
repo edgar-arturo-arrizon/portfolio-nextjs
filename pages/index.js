@@ -6,7 +6,7 @@ import Footer from './footer.js';
 
 export default function Home() {
   return (
-   <div className="min-h-screen">
+   <div className="min-h-screen min-w-screen">
     <Intro />
     <Services />
     <About />
